@@ -1,4 +1,4 @@
-# VibeCoded - Markdown to Rich Text Converter
+# (VibeCoded) Markdown to Rich Text Converter
 
 A simple TypeScript CLI tool that converts Markdown files to Rich Text (.rtf) format while preserving your folder structure. Built with clean architecture principles and fully tested.
 
